@@ -1,5 +1,9 @@
 <img src="mancing.gif">
-# Hi there 👋 I'm Vidi 
+<h2>Hi there 👋 I'm Vidi</h2>
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) together -->
+<h3>Let's learn all below together 🌱</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js">
+    
 
 <!--
 **vidi123/vidi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
