@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="mancing.gif">
+# Hi there 👋 I'm Vidi 
 
 <!--
 **vidi123/vidi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
