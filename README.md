@@ -2,7 +2,7 @@
 <h2>Hi there 👋 I'm Vidi</h2>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) together -->
 <h3>Let's learn all below together 🌱</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs">
     
 
 <!--
